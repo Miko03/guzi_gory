@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">quiz_gory</string>
+    <string name="pytanie1">Najwyższy szczyt w Tatrach</string>
+    <string name="odp1">Rysy</string>
+    <string name="odp2">Śnieżka</string>
+    <string name="odp3">Tarnica</string>
+    <string name="pytanie2">Które góry sa w Bieszczadach</string>
+    <string name="odp4">Rysy</string>
+    <string name="odp5">Śnieżka</string>
+    <string name="odp6">Krzemieniec</string>
+    <string name="pytanie3">Połoniny w Bieszczadach</string>
+    <string name="odp7">Betlińska</string>
+    <string name="odp8">Morska</string>
+    <string name="odp9">Caryńska</string>
+    <string name="check">Sprawdź</string>
+
 </resources>
